@@ -3,6 +3,13 @@ body {
   background-color: #011F3F;
 }
 
+h4{
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  text-decoration: underline 4px;
+
+}
+
 h3{
   font-family: 'Press Start 2P', cursive;
   color: white;
